@@ -1,0 +1,16 @@
+
+@font-face {
+	font-family: 'Gotham-Medium';
+	src: url('Gotham-Medium.otf');
+	src: local('☺'), url('Gotham-Medium.otf') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham-Light';
+	src: url('Gotham-Light.otf');
+	src: local('☺'), url('Gotham-Light.otf') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
